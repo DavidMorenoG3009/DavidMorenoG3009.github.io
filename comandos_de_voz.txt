@@ -1,0 +1,90 @@
+===========================================================
+    TECLADO DE VOZ UNIVERSAL - COMANDOS Y ATAJOS
+===========================================================
+
+1. COMANDOS DE VOZ ESPECIALES (ACCIONES DE SISTEMA)
+Durante el dictado, si dices exactamente alguna de estas 
+frases, el sistema ejecutará la acción en lugar de escribirla:
+
+  ▶ "nueva línea" o "enter" o "intro"
+    Acción: Presiona la tecla [Enter] (Pasa a la siguiente línea).
+
+  ▶ "tabulador" o "tab"
+    Acción: Presiona la tecla [Tab].
+
+  ▶ "borrar" o "borra eso"
+    Acción: Presiona la tecla [Retroceso / Backspace] (Borra el último carácter).
+
+  ▶ "borrar palabra"
+    Acción: Presiona [Control + Retroceso] (Borra toda la última palabra de golpe).
+
+  ▶ "espacio"
+    Acción: Presiona la tecla [Espacio] (Da un espacio en blanco manual).
+
+  ▶ "guardar archivo" o "guardar documento"
+    Acción: Presiona [Control + S] (Guarda en la mayoría de programas).
+
+  ▶ "copiar" o "copiar texto"
+    Acción: Presiona [Control + C].
+
+  ▶ "pegar" o "pegar texto"
+    Acción: Presiona [Control + V].
+
+  ▶ "deshacer" o "deshacer eso"
+    Acción: Presiona [Control + Z].
+
+  ▶ "seleccionar todo"
+    Acción: Presiona [Control + A].
+
+
+2. CONTROL DEL PROGRAMA POR VOZ
+Ahora puedes controlar los estados de este dictador usando tu voz sin usar el teclado.
+
+  ▶ "pausar dictado" o "pausar programa" o "descansa"
+    Acción: Entra en Modo Mute. El micrófono sigue atento de fondo, pero deja de escribir 
+    todo lo que hables hasta que lo despiertes.
+
+  ▶ "reanudar dictado" o "reanudar programa" o "despierta"
+    Acción: Sale del Modo Mute y vuelve a transcribir todo normalmente.
+
+  ▶ "apagar dictado" o "terminar programa" o "apagar teclado"
+    Acción: Cierra y apaga el programa de forma definitiva (equivale a presionar Escape).
+
+
+3. SIGNOS DE PUNTUACIÓN EN TIEMPO REAL
+Puedes dictar los siguientes signos en medio de cualquier frase. El sistema los 
+convertirá automáticamente a su símbolo y capitalizará la primera letra de tus oraciones.
+
+  ▶ "coma"  →  ( , )
+  ▶ "punto" o "punto final"  →  ( . )
+  ▶ "dos puntos"  →  ( : )
+  ▶ "punto y coma"  →  ( ; )
+  ▶ "abrir interrogación"  →  ( ¿ )
+  ▶ "cerrar interrogación" o "signo de pregunta"  →  ( ? )
+  ▶ "abrir exclamación"  →  ( ¡ )
+  ▶ "cerrar exclamación"  →  ( ! )
+  ▶ "guion medio"  →  ( - )
+  ▶ "guion bajo"  →  ( _ )
+  ▶ "arroba"  →  ( @ )
+  ▶ "comillas"  →  ( " )
+  ▶ "barra inclinada"  →  ( / )
+  ▶ "barra invertida"  →  ( \ )
+
+
+4. ATAJOS DE TECLADO GLOBALES (MANUALES)
+Estas teclas funcionan en todo momento, sin importar en qué 
+aplicación de Windows te encuentres:
+
+  ▶ [ Ctrl + Alt + V ]
+    Acción: Pausa Total. Sirve si no quieres usar la voz para pausar 
+    o necesitas apagar el micrófono a nivel de hardware por privacidad.
+
+  ▶ [ Esc ] (Escape)
+    Acción: Cierra y apaga completamente el programa de forma segura.
+
+
+===========================================================
+Nota: Todo lo que digas que NO sea un comando de la lista 
+anterior, será escrito automáticamente en la ventana que 
+tengas activa.
+===========================================================
